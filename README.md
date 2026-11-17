@@ -90,7 +90,7 @@ Esses projetos complementam o percurso de aprendizagem da disciplina, conectando
 
 ## 👨‍💻 Autor
 
-**Elton Eduardo Viana Lopes**
+**Danilo Andrade da Silva**
 
 🎓 Engenharia de Software — Centro Universitário de Brasília (CEUB)
 
